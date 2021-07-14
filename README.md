@@ -5,7 +5,9 @@ This project performs all the crud operations like updating, creating and deleti
 # Technology Stack used - 
 
 -> Frontend - React , ES6
+
 -> Backend - JPA Hibernate, Spring Boot
+
 -> Database - MySql
 
 # Getting Started with Create React App
